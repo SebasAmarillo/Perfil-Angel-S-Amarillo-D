@@ -1,5 +1,7 @@
 # Perfil-Angel-S-Amarillo-D
-# <p align="center"> **ANGEL SEBASTIAN AMARILLO DELGADO** </p>
+# <p align="center"> 
+**ANGEL SEBASTIAN AMARILLO DELGADO**
+</p>
 ---
 <div>
 <p style = 'text-align:center;'>
