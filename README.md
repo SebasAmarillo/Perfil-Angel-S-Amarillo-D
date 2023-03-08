@@ -1,6 +1,6 @@
 # Perfil-Angel-S-Amarillo-D
 <center> 
-<h1>**ANGEL SEBASTIAN AMARILLO DELGADO**</h1>
+<h1>__ANGEL SEBASTIAN AMARILLO DELGADO__</h1>
 </center>
 ---
 <div>
