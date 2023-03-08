@@ -1,7 +1,7 @@
 # Perfil-Angel-S-Amarillo-D
-#<p align="center"> 
-# **ANGEL SEBASTIAN AMARILLO DELGADO**
-</p>
+<center> 
+<h1>**ANGEL SEBASTIAN AMARILLO DELGADO**</h1>
+</center>
 ---
 <div>
 <p style = 'text-align:center;'>
