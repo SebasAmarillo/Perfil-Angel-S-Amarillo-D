@@ -10,7 +10,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/2628/2628617.png" alt="JuveYell" width="40px"> 17 de Mayo de 1999
 </div> 
 <div>  
-<img src="https://assets.stickpng.com/images/5a452570546ddca7e1fcbc7d.png" alt="JuveYell" width="40px"> 3045979635
+<img src="https://previews.123rf.com/images/sanek13744/sanek137441703/sanek13744170300588/74181810-vector-del-icono-del-tel%C3%A9fono-contacto-muestra-del-servicio-de-asistencia-en-fondo-aislado.jpg" alt="JuveYell" width="40px"> 3045979635
 </div> 
 <div>  
 <img src="https://i.pinimg.com/originals/0f/f8/74/0ff8747356eda64468c87b958d60cebf.png" alt="JuveYell" width="40px"> angelseb1799@gmail.com 
