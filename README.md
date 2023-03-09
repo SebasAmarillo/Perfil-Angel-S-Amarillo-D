@@ -24,7 +24,9 @@
 </div> 
 
 <div>
+
 Soy ingeniero electrónico y de telecomunicaciones con grandes ideas innovadoras para contribuir en el sector tecnológico.
+
 </div>
 
 ## **ÁREAS DE ESPECIALIZACIÓN**
