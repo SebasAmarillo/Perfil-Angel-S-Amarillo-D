@@ -62,8 +62,6 @@ INGENIERA ELECTRÓNICA Y DE TELECOMUNICACIONES 2022
 
 - Curso de ingles para adquirir habilidades deL lenguaje - 2016.
 
-## **EXPERIENCIA LABORAL**
-
 ## **EXPERIENCIA LABORAL**  
 
 ### <img src="https://store-images.microsoft.com/image/apps.42576.9007199267190571.4c3373ae-7ae1-4cb7-ad35-8f067d316960.99d051f5-89c4-48c8-8ef1-ba8f4ed9511c?mode=scale&q=90&h=300&w=300" alt="JuveYell" width="60px"> ***BANCO POPULAR***  
