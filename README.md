@@ -15,7 +15,7 @@
 
 <div>    
 
-<img src="https://assets.stickpng.com/images/5a452570546ddca7e1fcbc7d.png" alt="JuveYell" width="40px"> 3045979635  
+<img src="https://images.vexels.com/media/users/3/205069/isolated/preview/f207045d96c258fed664305f0ac2c5bd-icono-de-auricular-de-telefono-azul.png" alt="JuveYell" width="40px"> 3045979635  
 
 </div> 
 
