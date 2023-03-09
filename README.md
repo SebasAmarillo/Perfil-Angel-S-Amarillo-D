@@ -64,9 +64,7 @@ INGENIERA ELECTRÓNICA Y DE TELECOMUNICACIONES 2022
 
 ## **EXPERIENCIA LABORAL**  
 
-### <div>
 ### <img src="https://static.wikia.nocookie.net/logopedia/images/8/87/Banco_popular_col_1950_only.png/revision/latest?cb=20210428004146&path-prefix=es" alt="JuveYell" width="60px"> ***BANCO POPULAR***  
-</div>
 
 ### ***APRENDIZ UNIVERSITARIO EN LABORATORIO DIGITAL (ENER0 - JULIO 2022)***  
 
