@@ -73,3 +73,9 @@ INGENIERA ELECTRÓNICA Y DE TELECOMUNICACIONES 2022
 - Desarrolle habilidades de trabajo en equipo en mi área la cual era Libranzas del Banco Popular.  
 
 - Controlé el cumplimiento de los cronogramas de los proyectos del área.
+
+### ***SUPERVISOR ADMINISTRATIVO DE TECNOLOGÍA (AGOSTO 2022 - PRESENTE)***  
+
+- Desarrollo de servicios para mejorar la experienica del cliente.  
+
+- Revisar y supervisar el correcto funcionamiento de los servicios del banco especificamente en el area de integración bus.
