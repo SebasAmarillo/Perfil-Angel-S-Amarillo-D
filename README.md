@@ -15,7 +15,7 @@
 
 <div>    
 
-<img src="https://images.vexels.com/media/users/3/205069/isolated/preview/f207045d96c258fed664305f0ac2c5bd-icono-de-auricular-de-telefono-azul.png" alt="JuveYell" width="40px"> 3045979635  
+<img src="https://assets.stickpng.com/images/5a452570546ddca7e1fcbc7d.png" alt="JuveYell" width="40px"> 3045979635  
 
 </div> 
 
@@ -32,18 +32,46 @@
 </div>  
 
 
-<div>  
-  
-Soy ingeniero electrónico y de telecomunicaciones con grandes ideas innovadoras para contribuir en el sector tecnológico.  
-  
-</div>
+## ***SOBRE MI:***  
 
+Soy ingeniero electrónico y de telecomunicaciones, graduado de la Universidad Catolica de Colombia, con grandes ideas innovadoras para contribuir en el sector tecnológico.    
 
 ## **ÁREAS DE ESPECIALIZACIÓN**
 
-Me enfoco en el área de la electrónica y de desarrollo de software, cuento con conocimientos que me permiten entender y apasionarme en el mundo tecnológico
+Me enfoco en el área de la electrónica y de desarrollo de software, cuento con conocimientos que me permiten entender y apasionarme en el mundo tecnológico  
 
+## **EXPERIENCIA ACADÉMICA**  
 
+### ***AOS INTERNACIONAL***  
 
+- Semillero bus 11 IBM Data Power Gateway, App Connect Enterprise, API Connect 10 y DevOps. 2022-2023
 
+### ***UNIVERSIDAD CATÓLICA DE COLOMBIA***  
 
+INGENIERA ELECTRÓNICA Y DE TELECOMUNICACIONES 2022  
+
+- Graduado con instintivo Grado de Honor - Diciembre 2022. 
+
+- Diplomado Diseño de Sistemas de Control - 2021.
+
+### ***AVAYA BREEZE***  
+
+- Capacitación recibida por empresa Avaya por cumplir con asistencia y desarrollo del programa en la Universidad De La Sabana
+
+### ***AMERICAN SCHOOL WAY***  
+
+- Curso de ingles para adquirir habilidades deL lenguaje - 2016.
+
+## **EXPERIENCIA LABORAL**  
+
+### <div>
+### <img src="https://static.wikia.nocookie.net/logopedia/images/8/87/Banco_popular_col_1950_only.png/revision/latest?cb=20210428004146&path-prefix=es" alt="JuveYell" width="60px"> ***BANCO POPULAR***  
+</div>
+
+### ***APRENDIZ UNIVERSITARIO EN LABORATORIO DIGITAL (ENER0 - JULIO 2022)***  
+
+- Actualizar y modificar servicios necesarios para el correcto funcionamiento de las aplicaciones del banco.  
+
+- Desarrolle habilidades de trabajo en equipo en mi área la cual era Libranzas del Banco Popular.  
+
+- Controlé el cumplimiento de los cronogramas de los proyectos del área.
