@@ -42,11 +42,11 @@ Me enfoco en el área de la electrónica y de desarrollo de software, cuento con
 
 ## **EXPERIENCIA ACADÉMICA**  
 
-### ***AOS INTERNACIONAL***  
+### <img src="https://res.cloudinary.com/monday-platform/image/upload/v1670011484/board_views_images/logos/1670011484230_a918100a-fbba-6626-ec22-fb7daed2a372.jpg" alt="JuveYell" width="60px"> ***AOS INTERNACIONAL***  
 
 - Semillero bus 11 IBM Data Power Gateway, App Connect Enterprise, API Connect 10 y DevOps. 2022-2023
 
-### ***UNIVERSIDAD CATÓLICA DE COLOMBIA***  
+### <img src="https://colombiaestudia.com/wp-content/uploads/2021/06/Logo_UCatolica.jpg" alt="JuveYell" width="60px"> ***UNIVERSIDAD CATÓLICA DE COLOMBIA***  
 
 INGENIERA ELECTRÓNICA Y DE TELECOMUNICACIONES 2022  
 
@@ -54,13 +54,15 @@ INGENIERA ELECTRÓNICA Y DE TELECOMUNICACIONES 2022
 
 - Diplomado Diseño de Sistemas de Control - 2021.
 
-### ***AVAYA BREEZE***  
+### <img src="https://media.zenfs.com/en/business-wire.com/06acf25808a06bc74c8c7bc4e042c6b1" alt="JuveYell" width="60px"> ***AVAYA BREEZE***  
 
 - Capacitación recibida por empresa Avaya por cumplir con asistencia y desarrollo del programa en la Universidad De La Sabana
 
-### ***AMERICAN SCHOOL WAY***  
+### <img src="https://www.cooprofesionales.com.co/Files/convenios/diseno-sin-titulo-3.png" alt="JuveYell" width="60px"> ***AMERICAN SCHOOL WAY***  
 
 - Curso de ingles para adquirir habilidades deL lenguaje - 2016.
+
+## **EXPERIENCIA LABORAL**
 
 ## **EXPERIENCIA LABORAL**  
 
